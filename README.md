@@ -25,15 +25,15 @@ I’ve built real-world apps during internships and academic projects, and I’m
 ## 🧰 Tech Stack
 
 ### 💻 Languages, Frameworks & Tools
-
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" height="30" alt="Tailwind CSS" />
 </p>
 
@@ -63,6 +63,7 @@ I’ve built real-world apps during internships and academic projects, and I’m
 | 🌐 **UMS Landing Page** | Built a responsive, professional website for a company during internship using React & Tailwind. |
 | 🎓 **E-learning Platform** | Created an e-learning app like Udemy/Coursera with course browsing, user auth, and instructor features. |
 | 📦 **Inventory Management System (PFE)** | A full-stack inventory & stock management app with invoices, suppliers/clients, and user authentication. |
+| 🛍️ **E-Commerce Website (PHP + MySQL)** | A complete front-to-back e-commerce solution with product catalog, cart, checkout, user accounts, and a full admin dashboard. Built using PHP, MySQL, HTML/CSS/JS. |
 
 > 🔨 More projects coming soon — including some AI & data science tools!
 
