@@ -91,8 +91,8 @@ I’ve built real-world apps during internships and academic projects, and I’m
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faouzihaourigui&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faouzihaourigui&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=faouziha&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faouziha&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
